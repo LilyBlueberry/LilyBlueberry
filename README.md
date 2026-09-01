@@ -186,13 +186,13 @@ height="150"
 
 ### 🗂️ Task Manager
 
-A task management application built with **Java**, **Spring Boot**, created to practice object-oriented programming and software design.
+A task management application built with **Java**, **Spring Boot**, **PostgreSQL** created to practice object-oriented programming and software design.
 
 <br>
 
 **FOCUS**
 
-`Java` `OOP` `Software Design` `Spring Boot`
+`Java` `Spring Boot` `PostgreSQL` `OOP` `Software Design` 
 
 <br><br>
 
