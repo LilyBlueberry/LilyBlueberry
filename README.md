@@ -10,16 +10,11 @@
 
 <p align="center">
   <i>
-    Building things, learning things,<br>
-    and occasionally breaking things. 🖥️
+    Building things, learning things, and occasionally breaking things. 🖥️
   </i>
 </p>
 
 <br>
-
-<img src="./assets/pixel-blueberry.png" width="100" alt="Pixel blueberries">
-
-<br><br>
 
 <img src="./assets/floral-divider.png" width="90%" alt="Floral divider">
 
@@ -39,13 +34,40 @@
 
 <div align="center">
 
-<!--
-  IMAGE TO ADD LATER:
-  ./assets/about-me.png
--->
+<table width="90%">
+<tr>
+<td
+align="center"
+valign="middle"
+bgcolor="#F0E2F2"
+height="190"
+>
 
-🖼️  
-**About Me illustration coming soon...**
+<br>
+
+🌸 🪻 🫐 🌷 🫐 🪻 🌸
+
+<br><br>
+
+<font color="#76518A">
+<b>A little corner about me</b>
+</font>
+
+<br>
+
+<font color="#9B7EAD">
+<i>Illustration coming soon ♡</i>
+</font>
+
+<br><br>
+
+🌷 🫐 🌸 🪻 🌸 🫐 🌷
+
+<br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -89,7 +111,7 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 <img src="https://img.shields.io/badge/Object--Oriented%20Programming-E2D5EF?style=flat-square&labelColor=E2D5EF&color=E2D5EF">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Development-E8D5E7?style=flat-square&labelColor=E8D5E7&color=E8D5E7">
 
@@ -123,13 +145,40 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 <div align="center">
 
-<!--
-  IMAGE TO ADD LATER:
-  ./assets/task-manager.png
--->
+<table width="90%">
+<tr>
+<td
+align="center"
+valign="middle"
+bgcolor="#F4E5EF"
+height="150"
+>
 
-🗂️  
-**Task Manager preview coming soon...**
+<br>
+
+🗂️ 🌸 🪻 🌷
+
+<br><br>
+
+<font color="#76518A">
+<b>Task Manager</b>
+</font>
+
+<br>
+
+<font color="#9B7EAD">
+<i>Project preview coming soon ♡</i>
+</font>
+
+<br><br>
+
+🌷 🫐 🌸
+
+<br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -137,13 +186,13 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 ### 🗂️ Task Manager
 
-A task management application built with **Java**, created to practice object-oriented programming and software design.
+A task management application built with **Java**, **Spring Boot**, created to practice object-oriented programming and software design.
 
 <br>
 
 **FOCUS**
 
-`Java` `OOP` `Software Design`
+`Java` `OOP` `Software Design` `Spring Boot`
 
 <br><br>
 
@@ -156,13 +205,40 @@ A task management application built with **Java**, created to practice object-or
 
 <div align="center">
 
-<!--
-  IMAGE TO ADD LATER:
-  ./assets/pixel-portfolio.png
--->
+<table width="90%">
+<tr>
+<td
+align="center"
+valign="middle"
+bgcolor="#E9E0F3"
+height="150"
+>
 
-🏡  
-**Pixel Portfolio preview coming soon...**
+<br>
+
+🏡 🌸 🫐 🪻
+
+<br><br>
+
+<font color="#76518A">
+<b>Pixel Portfolio</b>
+</font>
+
+<br>
+
+<font color="#9B7EAD">
+<i>Project preview coming soon ♡</i>
+</font>
+
+<br><br>
+
+🪻 🌷 🫐
+
+<br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -252,6 +328,7 @@ An interactive virtual room in pixel art, built with **TypeScript**, designed to
 <!--                      GITHUB STATS                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
+<!--
 # 🌙 GITHUB STATS
 
 <div align="center">
@@ -261,14 +338,11 @@ An interactive virtual room in pixel art, built with **TypeScript**, designed to
 
 <td width="50%" align="center" valign="middle">
 
-<!--
-  IMAGE TO ADD LATER:
-  ./assets/github-night.png
--->
-
-🌙
-
-**GitHub illustration coming soon...**
+<img
+src="./assets/github-night.png"
+width="95%"
+alt="GitHub night illustration"
+>
 
 </td>
 
@@ -306,6 +380,7 @@ alt="LilyBlueberry Top Languages"
 <img src="./assets/floral-divider.png" width="85%" alt="Floral divider">
 
 </div>
+-->
 
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -328,10 +403,6 @@ alt="GitHub"
 >
 </a>
 
-&nbsp;
-
-<!-- ADD YOUR LINKEDIN -->
-
 <a href="https://www.linkedin.com/">
 <img
 src="https://img.shields.io/badge/LinkedIn-9B7EAD?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -339,18 +410,12 @@ alt="LinkedIn"
 >
 </a>
 
-&nbsp;
-
-<!-- ADD YOUR PORTFOLIO -->
-
 <a href="#">
 <img
 src="https://img.shields.io/badge/Portfolio-CB91A9?style=for-the-badge&logo=googlechrome&logoColor=white"
 alt="Portfolio"
 >
 </a>
-
-&nbsp;
 
 <!-- ADD YOUR EMAIL -->
 
@@ -364,13 +429,13 @@ alt="Email"
 </div>
 
 
-<br><br>
+<br>
 
 <div align="center">
 
 <img src="./assets/pixel-blueberry.png" width="110" alt="Pixel blueberries">
 
-<br><br>
+<br>
 
 🌸
 <i>
@@ -379,11 +444,11 @@ and growing one project at a time.
 </i>
 🌸
 
-<br><br>
+<br>
 
 <img src="./assets/floral-divider.png" width="75%" alt="Floral divider">
 
-<br><br>
+<br>
 
 <sub>
 Made with curiosity, code & a little bit of magic ✨
