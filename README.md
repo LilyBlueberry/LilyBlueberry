@@ -403,7 +403,7 @@ alt="GitHub"
 >
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/lillian-f-a294053bb">
 <img
 src="https://img.shields.io/badge/LinkedIn-9B7EAD?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn"
