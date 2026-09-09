@@ -186,17 +186,46 @@ height="150"
 
 ### 🗂️ Task Manager
 
-A task management application built with **Java**, **Spring Boot**, **PostgreSQL** created to practice object-oriented programming and software design.
+A task management application built with **Java**, **Spring Boot**, **PostgreSQL**, and a **RESTful API architecture**, created to practice object-oriented programming and software design.
+
+<br>
+
+**TECH STACK**
+
+<p>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-C8E6C9?style=flat-square&labelColor=C8E6C9&color=C8E6C9&labelColor=76518A">
+<img src="https://img.shields.io/badge/Java%2021-FFE0B2?style=flat-square&labelColor=FFE0B2&color=FFE0B2">
+<img src="https://img.shields.io/badge/PostgreSQL-B3E5FC?style=flat-square&labelColor=B3E5FC&color=B3E5FC">
+<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-F8BBD0?style=flat-square&labelColor=F8BBD0&color=F8BBD0">
+
+<br>
+
+<img src="https://img.shields.io/badge/CRUD%20completo-D1C4E9?style=flat-square&labelColor=D1C4E9&color=D1C4E9">
+<img src="https://img.shields.io/badge/Validation-FFCCBC?style=flat-square&labelColor=FFCCBC&color=FFCCBC">
+<img src="https://img.shields.io/badge/Gestione%20eccezioni-C5CAE9?style=flat-square&labelColor=C5CAE9&color=C5CAE9">
+<img src="https://img.shields.io/badge/Enum-DCEDC8?style=flat-square&labelColor=DCEDC8&color=DCEDC8">
+<img src="https://img.shields.io/badge/Test%20con%20Postman-FFF9C4?style=flat-square&labelColor=FFF9C4&color=FFF9C4">
+
+</p>
+
+<br>
+
+<p>
+
+<img src="https://img.shields.io/badge/REST%20API-CB91A9?style=for-the-badge&labelColor=CB91A9&color=CB91A9">
+
+</p>
 
 <br>
 
 **FOCUS**
 
-`Java` `Spring Boot` `PostgreSQL` `OOP` `Software Design` 
+`Java` `Spring Boot` `REST API` `PostgreSQL` `OOP` `Software Design` 
 
 <br><br>
 
-🌱 *Repository coming soon...*
+🔗 [View Repository](https://github.com/LilyBlueberry/task-manager-api)
 
 </td>
 
