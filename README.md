@@ -148,7 +148,7 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 </div>
 
-<br>
+<br><br>
 
 ### 🗂️ Task Manager
 
@@ -186,7 +186,6 @@ A task management application built with **Java**, **Spring Boot**, **PostgreSQL
 🔗 [View Repository](https://github.com/LilyBlueberry/task-manager-api)
 
 <br>
-
 </td>
 
 
@@ -250,6 +249,7 @@ An interactive virtual room in pixel art, built with **TypeScript**, designed to
 <br>
 
 🌐 *Live demo coming soon...*
+
 
 </td>
 
