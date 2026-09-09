@@ -181,7 +181,7 @@ A task management application built with **Java**, **Spring Boot**, **PostgreSQL
 
 `Java` `Spring Boot` `REST API` `PostgreSQL` `OOP` `Software Design` 
 
-<br><br>
+<br>
 
 🔗 [View Repository](https://github.com/LilyBlueberry/task-manager-api)
 
