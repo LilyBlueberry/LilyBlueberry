@@ -150,6 +150,8 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 <br><br>
 
+<br>
+
 ### 🗂️ Task Manager
 
 A task management application built with **Java**, **Spring Boot**, **PostgreSQL**, and a **RESTful API architecture**, created to practice object-oriented programming and software design.
@@ -230,7 +232,6 @@ height="150"
 
 </div>
 
-<br>
 
 ### 🏡 Pixel Portfolio
 
