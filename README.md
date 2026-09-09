@@ -107,13 +107,12 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 <p>
 
-<img src="https://img.shields.io/badge/Software%20Development-EBD9E9?style=flat-square&labelColor=EBD9E9&color=EBD9E9">
-
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-E2D5EF?style=flat-square&labelColor=E2D5EF&color=E2D5EF">
+<img src="https://img.shields.io/badge/Software%20Development-C8E6C9?style=flat-square&labelColor=C8E6C9&color=C8E6C9">
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-FFE0B2?style=flat-square&labelColor=FFE0B2&color=FFE0B2">
 
 <br>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-E8D5E7?style=flat-square&labelColor=E8D5E7&color=E8D5E7">
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-B3E5FC?style=flat-square&labelColor=B3E5FC&color=B3E5FC">
 
 </p>
 
@@ -161,26 +160,18 @@ A task management application built with **Java**, **Spring Boot**, **PostgreSQL
 
 <p>
 
-<img src="https://img.shields.io/badge/Spring%20Boot-C8E6C9?style=flat-square&labelColor=C8E6C9&color=C8E6C9&labelColor=76518A">
+<img src="https://img.shields.io/badge/Spring%20Boot-C8E6C9?style=flat-square&labelColor=C8E6C9&color=C8E6C9">
 <img src="https://img.shields.io/badge/Java%2021-FFE0B2?style=flat-square&labelColor=FFE0B2&color=FFE0B2">
+<img src="https://img.shields.io/badge/REST%20API-F8C8DC?style=flat-square&labelColor=F8C8DC&color=F8C8DC">
 <img src="https://img.shields.io/badge/PostgreSQL-B3E5FC?style=flat-square&labelColor=B3E5FC&color=B3E5FC">
 <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-F8BBD0?style=flat-square&labelColor=F8BBD0&color=F8BBD0">
 
-<br>
 
 <img src="https://img.shields.io/badge/CRUD%20completo-D1C4E9?style=flat-square&labelColor=D1C4E9&color=D1C4E9">
 <img src="https://img.shields.io/badge/Validation-FFCCBC?style=flat-square&labelColor=FFCCBC&color=FFCCBC">
 <img src="https://img.shields.io/badge/Gestione%20eccezioni-C5CAE9?style=flat-square&labelColor=C5CAE9&color=C5CAE9">
 <img src="https://img.shields.io/badge/Enum-DCEDC8?style=flat-square&labelColor=DCEDC8&color=DCEDC8">
 <img src="https://img.shields.io/badge/Test%20con%20Postman-FFF9C4?style=flat-square&labelColor=FFF9C4&color=FFF9C4">
-
-</p>
-
-<br>
-
-<p>
-
-<img src="https://img.shields.io/badge/REST%20API-CB91A9?style=for-the-badge&labelColor=CB91A9&color=CB91A9">
 
 </p>
 
