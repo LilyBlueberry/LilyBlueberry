@@ -145,40 +145,7 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<td
-align="center"
-valign="middle"
-bgcolor="#F4E5EF"
-height="150"
->
-
-<br>
-
-🗂️ 🌸 🪻 🌷
-
-<br><br>
-
-<font color="#76518A">
-<b>Task Manager</b>
-</font>
-
-<br>
-
-<font color="#9B7EAD">
-<i>Project preview coming soon ♡</i>
-</font>
-
-<br><br>
-
-🌷 🫐 🌸
-
-<br>
-
-</td>
-</tr>
-</table>
+<img src="./assets/task-manager.png" width="95%" alt="Task Manager preview">
 
 </div>
 
