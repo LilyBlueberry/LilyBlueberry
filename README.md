@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="./assets/character.png" width="350" alt="LilyBlueberry character illustration">
+<img src="./assets/profilo.png" width="500" alt="LilyBlueberry character illustration">
 
 </div>
 
