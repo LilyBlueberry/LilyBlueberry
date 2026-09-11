@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="./assets/profilo.png" width="500" alt="LilyBlueberry character illustration">
+<img src="./assets/profilo.png" width="600" alt="LilyBlueberry character illustration">
 
 </div>
 
@@ -111,7 +111,7 @@ I believe the best way to learn is to **build, experiment, and sometimes break t
 
 <div align="center">
 
-<img src="./assets/task-manager.png" width="95%" alt="Task Manager preview">
+<img src="./assets/task-manager.png" width="100%" alt="Task Manager preview">
 
 </div>
 
