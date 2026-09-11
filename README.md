@@ -34,40 +34,7 @@
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<td
-align="center"
-valign="middle"
-bgcolor="#F0E2F2"
-height="190"
->
-
-<br>
-
-🌸 🪻 🫐 🌷 🫐 🪻 🌸
-
-<br><br>
-
-<font color="#76518A">
-<b>A little corner about me</b>
-</font>
-
-<br>
-
-<font color="#9B7EAD">
-<i>Illustration coming soon ♡</i>
-</font>
-
-<br><br>
-
-🌷 🫐 🌸 🪻 🌸 🫐 🌷
-
-<br>
-
-</td>
-</tr>
-</table>
+<img src="./assets/character.png" width="350" alt="LilyBlueberry character illustration">
 
 </div>
 
